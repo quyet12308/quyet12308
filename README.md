@@ -1,17 +1,28 @@
 ### Hi, I'm Quyet Tran Dang 👋
 
-I'm an AI Engineer from Vietnam with **2+ years of hands-on experience** building and deploying end-to-end Machine Learning solutions. My core expertise lies in **Computer Vision (CV)** and **Natural Language Processing (NLP)**.
+I'm an AI Engineer from Vietnam with **over 2 years of hands-on experience** in building and deploying end-to-end Machine Learning solutions, with a strong focus on Computer Vision and NLP.
 
-I thrive on solving real-world business problems by transforming raw data into intelligent, automated systems. My approach is not just about building models, but about understanding the underlying challenges and architecting robust, efficient pipelines.
-
----
-
-#### 🔭 Currently Focusing On:
-*   **MLOps & Model Deployment:** Deepening my skills in creating scalable and maintainable deployment pipelines for AI models.
-*   **Model & Resource Optimization:** Exploring techniques for optimizing model performance and hardware utilization (e.g., quantization, inference engines).
+My passion lies in solving real-world problems through data-driven insights and robust engineering. I thrive on challenges that require deep technical investigation, from optimizing model performance to building the infrastructure that supports them.
 
 ---
 
-#### 🚀 Key Resources:
-*   ➡️ **[Check out my detailed AI Portfolio here!](https://github.com/quyet12308/AI-Portfolio)** ⬅️
-*   ➡️ **[Connect with me on LinkedIn](https://www.linkedin.com/in/quyettd-ai/)** ⬅️
+### 🔭 My Technical Portfolio
+
+**This is the best place to start.** I've compiled detailed case studies of my key projects, focusing on the business problems, technical solutions, and challenges I overcame.
+
+➡️ **[Click here to view my AI Engineering Portfolio](https://github.com/quyet12308/AI-Portfolio)**
+
+---
+
+### 🛠️ My Tech Stack
+
+*   **Languages:** Python (Advanced), C#/.NET (Intermediate)
+*   **AI/ML:** PyTorch, TensorFlow, Hugging Face, YOLO, OpenCV, Scikit-learn, XAI
+*   **Backend & DevOps:** FastAPI, Docker, RabbitMQ, Git
+*   **Databases:** MySQL, PostgreSQL, MongoDB
+
+---
+
+### 📫 Let's Connect!
+
+*   **[LinkedIn Profile](https://www.linkedin.com/in/quyettd-ai/)**
